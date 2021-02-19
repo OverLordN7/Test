@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
     public static ImageView image1;
 
 
-    String urls="http://komotoz.ru/photo/zhivotnye/images/ryabchik/ryabchik_05.jpg";
+    //String urls="http://komotoz.ru/photo/zhivotnye/images/ryabchik/ryabchik_05.jpg";
+    String urls="http://dating.mts.by/mtsrbapp/dating-images-by/web/images/7f/16/c8/9a/ca/ec/b0/67/7f16c89acaecb067af077b1856afa3e8_200_200_new_square.jpg";
     ArrayList<String> arrayURLS = new ArrayList<>();
 
     @Override
